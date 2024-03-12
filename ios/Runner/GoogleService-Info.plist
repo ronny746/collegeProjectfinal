@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>73518095789-et60ipf6kj3kvnvtdloqib9frprv3oi0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.73518095789-et60ipf6kj3kvnvtdloqib9frprv3oi0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA3sbmxVdNLqO_UJgdn3ndH9xzDXefVh5M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>73518095789</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.clgContentSharing</string>
+	<key>PROJECT_ID</key>
+	<string>reccontentsharing</string>
+	<key>STORAGE_BUCKET</key>
+	<string>reccontentsharing.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:73518095789:ios:33ee8d280107bb6fb55524</string>
+</dict>
+</plist>

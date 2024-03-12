@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73518095789",
+    "project_id": "reccontentsharing",
+    "storage_bucket": "reccontentsharing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73518095789:android:348c5f1a956e3c4db55524",
+        "android_client_info": {
+          "package_name": "com.example.clg_content_sharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73518095789-ast8c257974n5tv5o8i8sq5hptmbvpu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAad86lCI2C1l8XAx-TAitJdEuzXdvx6xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73518095789-ast8c257974n5tv5o8i8sq5hptmbvpu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
